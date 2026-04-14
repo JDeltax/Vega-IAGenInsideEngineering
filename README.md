@@ -47,14 +47,16 @@ Comparar cómo la IA logra resultados más precisos bajo diferentes condiciones 
 
 ## ✅ Instrucciones de Entrega
 
-1. **Hacer fork** de este repositorio en vuestra cuenta personal
+1. **Hacer fork** de este repositorio en la cuenta personal de cada uno
 2. **Crear archivo** `SOLUCION.md` con las respuestas y soluciones
 3. **Incluir prompts**: dentro de cada ejercicio, documentar los prompts utilizados para cada solución
 4. **Mantener estructura**: organizar las respuestas de forma clara y legible
 
 ---
 
-## 📝 Problema #1: El Videoclub de Don Mario
+## 📝 Problema #1: El Videoclub de Don 
+
+### Duración: Máximo 15 minutos
 
 Don Mario acaba de abrir un videoclub moderno donde los clientes pueden alquilar peliculas fisicas o digitales. El problema es que su sistema anterior era un caos: todos los precios se calculaban igual sin importar el tipo de pelicula o membresia del cliente, y no habia forma de saber que peliculas estaban disponibles en tiempo real.
 
@@ -143,10 +145,10 @@ La solución debe ser **flexible** para:
 1. **Identificar patrones**: ¿Qué dos patrones de diseño se están utilizando? ¿Son los adecuados o alguno debería cambiar?
 
 2. **Completar implementación**: ¿Qué clases/interfaces hacen falta para que el código satisfaga correctamente los patrones utilizados? 
-   - Documentar en el `README.md` (no es necesario modificar los diagramas)
+   - Documentar en el `SOLUCION.md` (no es necesario modificar los diagramas)
 
 3. **Validar diagrama**: ¿El diagrama de contexto proporciona información suficiente y pertinente? 
-   - Si es necesario hacer cambios, documentarlos en el `README.md`
+   - Si es necesario hacer cambios, documentarlos en el `SOLUCION.md`
 
 4. **Identificar errores**: ¿Qué errores del código proporcionado identificaste? ¿Por qué no compila?
 
@@ -181,12 +183,11 @@ IAGenInsideEngineering/
 ## 🚀 Para Comenzar
 
 1. Clone o haga fork del repositorio
-2. Revise los enunciados en la carpeta `docs/`
-3. Abra los archivos fuente en `src/main/java/`
-4. Comience con la formación de prompts bien estructurados
-5. Documente su proceso en `SOLUCION.md`
-6. Verifique que el código compila sin errores
-7. Ejecute las pruebas unitarias
+2. Abra los archivos fuente en `src/main/java/`
+3. Comience con la formación de prompts bien estructurados
+4. Documente su proceso en `SOLUCION.md`
+5. Verifique que el código compila sin errores
+6. Ejecute las pruebas unitarias
 
 ---
 
